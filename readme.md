@@ -1,5 +1,3 @@
 # Title
 - Some text lol
-- Some text actually added to feature branch
-- More and more changes
-- this will be practice for my pokedex MCO2
+- Some things had to be deleted to be marked as resolved

@@ -1,4 +1,3 @@
 # Title
 - Some text lol
-- I am modifying it from 'feature-branch'
-- 
+- Some things had to be deleted to be marked as resolved
